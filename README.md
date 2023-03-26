@@ -1,0 +1,1 @@
+# pyhipster-application-samples
